@@ -1,5 +1,5 @@
 #' Plot and Shade A Normal Denisty Function
-#' 
+#'
 #' Will plot a normal density function and shade in the selected direction.
 #' @param mean The mean of the data set. The default is 0.
 #' @param sd The standard deviation of the data set.  The default is 1.
@@ -7,6 +7,8 @@
 #' @param max The x-value of the maximum shaded region.  The default is Infinity.
 #' @return A shaded normal denisty plot, area of shaded region.
 #' @export
+#' @importFrom graphics abline axis lines plot polygon text
+#' @importFrom stats pnorm
 shade.z = function(mean=0, sd=1, min=-Inf, max=Inf) {
   if(min==-Inf) {
     area=pnorm(max,mean=mean,sd=sd)

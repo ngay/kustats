@@ -10,7 +10,7 @@
 #' @return Density graphs
 #'
 #' @export
-#'
+#' @importFrom stats dnorm
 normal.plot <- function(mean=0,sd=1,mean2=NA,sd2=NA){
   storage <- matrix(c(mean,sd,mean2,sd2),nrow=2,ncol=2)
   x <- seq(from=min(storage[1,],na.rm=TRUE)-3*max(storage[2,],na.rm=TRUE),to=max(storage[1,],na.rm=TRUE)+3*max(storage[2,],na.rm=TRUE),length=1000)
