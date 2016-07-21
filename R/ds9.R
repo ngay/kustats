@@ -1,0 +1,19 @@
+#' Data Set 9: Passive and Active Smoke
+#' 
+#' All values are measured levels of serum cotinine (in ng/mL), a metabolite
+#' of nicotine.  (When nicotine is asborbed by the body, cotinine is
+#' produced.) Data are from the U.S. Department of Health and Human Services,
+#' National Center for Health Statistics, Third National Health and
+#' Nutrition Examination Survey.
+#' \itemize{
+#' \item SMKR (smokers, or subjects reported tobacco use)
+#' \item ETS (nonsmokers exposed to environmental tobacco smoke at
+#' home or work) 
+#' \item NOETS (nonsmokers with no exposure to environmental tobacco
+#' smoke at home or work)
+#' }
+#' 
+#' @format A data frame with 40 rows and 3 variables
+#' @source Triola, M. 2014. Elementary Statistics, 12th ed. Boston, MA: Pearson.
+#' @name ds9
+NULL
