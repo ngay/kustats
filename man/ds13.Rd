@@ -20,4 +20,3 @@ seat.  Data are from the National Highway Traffic Safety Administration.
 \item PLVS is pelvis deceleration (in g, where g is a force of gravity)
 }
 }
-

@@ -1,7 +1,7 @@
 Package: kustats
 Type: Package
 Title: Data sets and functions for statistics classes at Keiser University
-Version: 0.1.2
+Version: 0.2.0
 Author: Nathanael Gay
 Maintainer: Nathanael Gay <ngay@keiseruniversity.edu>
 Description: Allows students to load all data sets from Triola's current text.
@@ -9,4 +9,4 @@ Depends:
     R (>= 2.10)
 License: GPL-2
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1

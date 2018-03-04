@@ -28,4 +28,3 @@ in both years)].
 \item IQF is measured full IQ score
 }
 }
-

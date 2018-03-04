@@ -15,4 +15,3 @@ All measurements are from the author's home.
 \item UPS is the voltage from the electricity supplied from an uninterruptible power supply (APC model CS 350) connected to the home power supply
 }
 }
-

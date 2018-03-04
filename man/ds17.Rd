@@ -21,4 +21,3 @@ so on.
 \item Sample 6: Students recruited in introductory psychology classes, aged 17 to 23
 }
 }
-

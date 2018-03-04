@@ -15,4 +15,3 @@ Chest deceleration by car type and size.
 \item Size (Small, Medium, Large)
 }
 }
-

@@ -22,4 +22,3 @@ Weights are in pounds.  Data provided by Masakuza Tani, the Garbage Project, Uni
 \item Total
 }
 }
-

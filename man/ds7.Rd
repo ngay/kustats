@@ -21,4 +21,3 @@ The data are from Gary Alt and Minitab, Inc.
 \item Weight is measured in pounds
 }
 }
-

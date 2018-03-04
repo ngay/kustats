@@ -17,4 +17,3 @@ The number of ways to select r objects, in order, from n objects
 \description{
 Permutation
 }
-

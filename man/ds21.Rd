@@ -20,4 +20,3 @@ The "pre-1983 pennies" were made after the Indian and wheat pennies, and they ar
 \item Dollar.Coins
 }
 }
-

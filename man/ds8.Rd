@@ -19,4 +19,3 @@ American Medical Association, Vol. 281, No. 12.
 \item Alcohol.Use in the movie in seconds
 }
 }
-

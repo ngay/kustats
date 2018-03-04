@@ -14,4 +14,3 @@ Axial load are measured in pounds.  Axial loads are applied when the tops are pr
 \item CN111
 }
 }
-

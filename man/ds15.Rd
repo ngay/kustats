@@ -19,4 +19,3 @@ Bureau of Transportation.
 \item Arr.Delay is the arrival delay time (minutes), and negative numbers correspond to flights that arrived early (before the scheduled arrival time).
 }
 }
-

@@ -18,4 +18,3 @@ M&M candy weights in grams by color.
 \item Green
 }
 }
-

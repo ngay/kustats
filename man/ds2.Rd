@@ -20,4 +20,3 @@ research and wrote the report.
 \item Height is is height (cm) of the subject
 }
 }
-

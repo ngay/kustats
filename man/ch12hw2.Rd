@@ -15,4 +15,3 @@ Months of paint effectiveness by geographic location (United States) and type of
 \item Type
 }
 }
-

@@ -24,4 +24,3 @@ surface area (cm^2)
 \item WT is body weight (kg)
 }
 }
-

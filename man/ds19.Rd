@@ -20,4 +20,3 @@ A data set containing data on cola weights and volumes.  Weights are in pounds a
 \item PDTVL volume diet pepsi
 }
 }
-

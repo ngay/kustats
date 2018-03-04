@@ -21,4 +21,3 @@ Density graphs
 \description{
 Plots the normal density function of one or two graphs.
 }
-

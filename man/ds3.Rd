@@ -16,4 +16,3 @@ Levine of the University of Maryland.
 adult on the second day of a research study.
 }
 }
-

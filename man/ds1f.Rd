@@ -26,4 +26,3 @@ A data set containing data on 40 female body measurements.  Data is from the Nat
 \item BMI is body mass index (kg/m^2)
 }
 }
-

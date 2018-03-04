@@ -17,4 +17,3 @@ Southern California Erathquake Data Center.
 \item DEPTH is depth in km.
 }
 }
-

@@ -21,4 +21,3 @@ Quick, and Lee, Journal of American College Health, Vol. 55, No. 1.
 \item BMIAP denotes measured body mass index in April
 }
 }
-

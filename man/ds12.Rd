@@ -19,4 +19,3 @@ are not included.  Data are complete as of this writing.
 \item HtOpp is the height (cm) of the major opponent for the presidency.  
 }
 }
-

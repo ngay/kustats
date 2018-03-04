@@ -21,4 +21,3 @@ that have automatic transmissions and were manufactured in the same recent year.
 \item GHG is a measure of greenhouse gas emissions (in tons/year, expressed as CO2 equivalents)
 }
 }
-

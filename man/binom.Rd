@@ -19,4 +19,3 @@ The binomial probability of seeing x successes out of n trials when the probabil
 \description{
 A wrapper function for dbinom.
 }
-

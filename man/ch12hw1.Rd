@@ -15,4 +15,3 @@ Days of scent effectiveness by humidity and temperature category.
 \item Temperature (Category 1 or 2)
 }
 }
-

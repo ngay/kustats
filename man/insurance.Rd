@@ -13,4 +13,3 @@ Home insured values from a random sample of Florida properties.
 \item value The insured value (in dollars) of the property.
 }
 }
-

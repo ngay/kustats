@@ -21,4 +21,3 @@ A shaded normal denisty plot, area of shaded region.
 \description{
 Will plot a normal density function and shade in the selected direction.
 }
-

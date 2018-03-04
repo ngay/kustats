@@ -15,4 +15,3 @@ Pulse rates (bpm) by age category (under or over 30) and sex.
 \item Age (categorical as over or under 30)
 }
 }
-

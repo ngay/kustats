@@ -15,4 +15,3 @@ Population standard deviation
 \description{
 Population Standard Deviation
 }
-
