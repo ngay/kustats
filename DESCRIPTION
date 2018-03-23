@@ -1,7 +1,7 @@
 Package: kustats
 Type: Package
 Title: Data sets and functions for statistics classes at Keiser University
-Version: 0.2.2
+Version: 0.2.3
 Author: Nathanael Gay
 Maintainer: Nathanael Gay <ngay@keiseruniversity.edu>
 Description: Allows students to load all data sets from Triola's current text.
