@@ -1,0 +1,15 @@
+#' Data Set 10: Manatee Deaths
+#'
+#' Annual Florida data for 24 years are provided.
+#' \itemize{
+#' \item YEAR
+#' \item DEATHS is the annua number of Manatee deaths caused by boats
+#' \item BOATS is the number of registered pleasure boats (tens of thousands)
+#' \item POP is the Florida population (millions)
+#' \item WATER_TEMP is the annual mean water temperature (degrees F)
+#' }
+#'
+#' @format A data frame with 24 rows and 5 variables
+#' @source Triola, M. 2018. Elementary Statistics, 13th ed. Boston, MA: Pearson.
+#' @name ds10_Manatee_Deaths
+NULL

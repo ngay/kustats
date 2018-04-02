@@ -1,0 +1,17 @@
+#' Data Set 11: Alcohol and Tobacco Use in Animated Children's Movies
+#'
+#' The data are based on "Tobacco and Alcohol Use in G-Rated Children's
+#' Animated films," by Goldstein, Sobel, and Newman, Journal of the
+#' American Medical Association, Vol. 281, No. 12.
+#' \itemize{
+#' \item MOVIE name
+#' \item STUDIO
+#' \item LENGTH of the movie in minutes
+#' \item TOBACCO in the movie in seconds
+#' \item ALCOHOL in the movie in seconds
+#' }
+#'
+#' @format A data frame with 50 rows and 5 variables
+#' @source Triola, M. 2018. Elementary Statistics, 13th ed. Boston, MA: Pearson.
+#' @name ds11_Alcohol_and_Tobacco_in_Movies
+NULL
