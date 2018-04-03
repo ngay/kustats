@@ -1,7 +1,7 @@
 #' Data Set 18: Speed Dating
 #'
 #' Data are from 199 dates.  Based on replication data from \strong{Data Analysis Using Regression and Multilevel/Hierarchical Models},
-#' by Andrew Gelman and Jennifer Hill, Cambridge University Press.  Data for males uses the corresponding decsriptors are defined for females.
+#' by Andrew Gelman and Jennifer Hill, Cambridge University Press.  Data for males uses the corresponding descriptors as defined for females.
 #' \itemize{
 #' \item DEC_BY_FEM is decision (1 = yes) of female to date again
 #' \item AGE_FEM is age of female
